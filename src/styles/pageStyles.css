@@ -1,0 +1,42 @@
+.back{
+    height: 100vh;
+    background: url("../assets/images/bg/main.jpg");
+    background-size : cover
+}
+.intro{
+    height: 300px;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+.tagLine {
+    font-size: 3rem;
+    font-weight: bold;
+    line-height: 1;
+    text-shadow: 2px 2px black;
+    letter-spacing: 3px;
+}
+.btt{
+    border-radius: 12px;
+    font-weight: bold;
+}
+
+.trendingback{
+    height: auto;
+    background: url("../assets/images/bg/romance.jpg");
+    background-size : cover
+}
+.marginCard{
+    margin-top: 15px;
+    margin-right: 12px;
+    margin-bottom: 25px;
+}
+.imageCard{
+    margin:5px;
+    padding:5px;
+}
+.superback{
+    height: auto;
+    background: url("../assets/images/bg/spiderman.jpg");
+    background-size : cover
+}
